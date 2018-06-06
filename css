@@ -1,0 +1,47 @@
+body {
+	font-family: "Times New Roman", serif;
+	background-color: #6960EC ; }
+h1 {
+	text-align: center;
+	font-family: sans-serif;
+	color:lightyellow;
+ }
+h2 {
+	text-align: right;}
+p {
+	margin-left: 80px;
+	font-size: 4pt;
+	color: white;}
+a:link {
+	color: white; }
+
+
+
+a:visited {
+	color: aliceblue; }
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+
+table {
+	background-color: #6960EC;
+	 margin-left:auto; 
+    margin-right:auto;
+    	color: white;
+	text-align: center; 
+	width: 50%;
+}
+
+img { height: 280px;
+	width: 900px;
+}
